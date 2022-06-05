@@ -1,0 +1,137 @@
+#header{
+    background: linear-gradient(to right,rgb(175, 163, 156),rgb(85,45,23));
+    padding: 20px;
+
+}
+#header ul li a{
+    color:white;
+    padding: 15px;
+}
+#header ul li a:hover{
+    border: 2px solid red;
+}
+.logo {
+    width: 80px;
+}
+.banner-img{
+    width: 400px;
+}
+#banner{
+    background: linear-gradient(to right,rgb(175, 163, 156),rgb(85,45,23));
+    
+}
+
+ #banner #banner-heading{
+    font-family: 'Anton', sans-serif;
+font-family: 'Baloo Bhaina 2', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+text-align: center;
+color: wheat;
+font-size: 50px;
+font-weight: bold;
+padding: 2px;
+text-decoration: dotted;
+}
+p{
+    font-family: 'Anton', sans-serif;
+font-family: 'Baloo Bhaina 2', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-size: 20px;
+color:yellow;
+}
+#banner img{
+    width: 100%;
+}
+#services p{
+
+    font-size: 35px;
+    text-align: center;
+    color: green;
+    transition-property:font-size;
+    transition-duration: 3s;
+    text-decoration: underline;
+}
+#services p:hover{
+    font-size: 50px;
+
+}
+#services #service-content{
+  
+    font-size: 20px;
+    color:green;
+
+}
+#services h3{
+    color: green;
+    padding-bottom: 20px;
+}
+#texti #head{
+    
+    font-size: 35px;
+    text-align: center;
+    color: green;
+    transition-property:font-size;
+    transition-duration: 3s;
+    text-decoration: underline;
+
+}
+#texti #head:hover{
+    font-size: 50px;
+}
+#texti .texti-heading{
+    font-size: 20px;
+}
+#texti p{
+    color: green;
+    
+}
+#texti img{
+    padding-bottom: 30px;
+}
+#footer img{ background: linear-gradient(to right,rgb(175, 163, 156),rgb(85,45,23));
+    width: 100%;
+}
+#footer{
+    background: linear-gradient(to right,rgb(175, 163, 156),rgb(85,45,23));
+}
+#footer #descripting-img{
+    width: 200px;
+
+}
+#footer #descripting-text{
+    color: white;
+    padding-top: 20px;
+}
+#footer #form-heading{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Baloo Bhaina 2', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color:wheat;
+    font-size: 30px;
+    font-weight: bold;
+}
+#footer #social-icon img{
+    width: 50px;
+
+}
+#footer #company{
+    font-size: 40px;
+    color: wheat;
+}
+
+
+
+
+
+
+    
+    

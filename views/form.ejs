@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= ('amit')%></title>   
+</head>
+<body>
+    <h1>form</h1>
+    <%-include('../partials/nav.js')%>
+    <form action="/form2" method="post">
+        <label for="">name </label>
+        <input type="text" name="name" id="">
+        <label for="">address </label>
+        <input type="text" name="address" id="">
+        <label for="">rollNo</label>
+        <input type="text" name="roll" id="">
+        <button type="submit">save record</button>
+
+    
+        
+    </form>
+</body>
+</html>
